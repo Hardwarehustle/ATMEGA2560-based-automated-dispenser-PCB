@@ -4,8 +4,6 @@
 > **Tool:** EasyEDA  
 > **MCU:** ATMEGA2560-16AU  
 > **Date:** November 2024 | **Rev:** 1.0  
-> **Type:** Personal Project
-
 ---
 
 ## 📌 Project Overview
@@ -26,12 +24,17 @@ The design covers:
 
 ## 🖼️ Project Visuals
 
-### 3D Board View
-![3D Top View](images/TopView.jpg)
-
 ### Schematic
-![Schematic](images/Schematic_Dispenser.jpg)
+![Schematic](Images/SCH.png)
 
+### PCB Layout
+![PCB Layout](Images/PCB_Layout.png)
+
+### 3D Board Top View
+![3D Top View](Images/TopView.png)
+
+### 3D Board Bottom View
+![3D Bottom View](Images/BottomView.png)
 ---
 
 ## 🏗️ System Architecture
